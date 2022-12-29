@@ -134,4 +134,4 @@ One reason `mazo` will fail is that your corpus has characters that are unreadab
 
 Remember that Mazo is meant to get you started using MALLET, and to provide a nice set of output files for downstream analysis, visualization, etc. If you need more power and flexibility, you are encouraged to use MALLET directly. 
 
-If  use MALLET directly but then want to convert the resulting files into relational tables, consider importing `Polite` from `polite.polite` and using it directly.
+If you do use MALLET directly but then want to convert the resulting files into relational tables, consider importing `Polite` from `polite.polite` and using it directly.
